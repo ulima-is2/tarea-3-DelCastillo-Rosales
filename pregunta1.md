@@ -48,16 +48,20 @@ Contras:
 Finalmente se hablan sobre los detalles de las tecnologías que se usan al desarrollar microservicios. Estas son las siguientes:
 
 CQRS: Separar la acción de lectura de la de escritura. Sirve como punto de partida para descomponer tu código.
+
 Event Sourcing: Es secuencial, si se cambia algo en el medio del código se sabrá si afecta lo demás o no.
 - Evento céntrico en el enfoque de dominio de modelos
 - Guarda eventos, no objetos de estado
 - El almacenamiento de eventos es el intermediario de la base de datos y los mensajes
 - Consigue los eventos para las entidades
 - Guarda los eventos que se asociaran a las entidades y sus dependencias
+
 DDD / Bounded context (Domain Driven Design): El diseño es complicado, se debe conocer el negocio, el problema y el alcance para así aislar los límites de cada problema y que pueda ser específico.
+
 API Gateway: Esto soluciona los siguientes problemas:
 - Una granularidad muy fina.
 - Las distintas necesidades de información de los distintos clientes.
 - La cantidad y ubicación de los distintos servicios que cambian dinámicamente.
 - El particionamiento de servicios el cual debería estar oculto para los clientes.
+
 Lenguaje para los problemas de espacio: Permite aplicar un lenguaje en el cual sea útil para un problema en específico lo cual minimiza el código a utilizar.
