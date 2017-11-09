@@ -12,7 +12,7 @@ Servidor que contiene la web. Emplea JS con AJAX, HTML 5 & CSS (es responsive)
 
     API Gateway Proxy 
 
-
+La integración proxy HTTP de API Gateway es un mecanismo simple y versátil para construir una API que permite a una aplicación web acceder a múltiples recursos o características.
 
     API Lectura Usuario
 
