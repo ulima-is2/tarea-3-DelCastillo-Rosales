@@ -1,12 +1,12 @@
 <h1>Detalle de Componentes de la Arquitectura</h1>
 
+NODOS 
 
     Cliente1 - Cliente N
 
 Visitantes de la página web que utilizan un navegador. 
 
-
-   Servidor de aplicaciones 1 
+    Servidor de aplicaciones 1 
 
 Servidor que contiene la web. Emplea JS con AJAX, HTML 5 & CSS (es responsive)
 
