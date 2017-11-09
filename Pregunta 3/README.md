@@ -1,4 +1,4 @@
-<h1>DETALLE DE COMPONENTES EMPLEADOS EN LA ARQUITECTURA</h1>
+<h1>Detalle de Componentes de la Arquitectura</h1>
 
 
     Cliente1 - Cliente N
