@@ -1,10 +1,12 @@
 <h1>Detalle de Componentes de la Arquitectura</h1>
 
-NODOS 
+## NODOS 
 
 Cliente1 - Cliente N
 
-    Visitantes de la página web que utilizan un navegador. 
+Visitantes de la página web que utilizan un navegador. 
+
+___
 
 Servidor de aplicaciones 1 
 
